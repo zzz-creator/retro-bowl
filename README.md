@@ -5,5 +5,4 @@ Retro Bowl is an American style football game created by New Star Games. Are you
 
 ## Play 
 
-Click the link below to play!<br>
-[https://ejb15.github.io/ejb1.github.io/](https://ejb15.github.io/ejb1.github.io/)
+Click the [here](https://zzz-creator.github.io/retro-bowl/) below play!
